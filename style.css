@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Anton', sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+button{
+    background-color: blue;
+    transition: all .6s;
+}
+
+button:hover{
+    background-color: darkred;
+}
